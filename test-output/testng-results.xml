@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9550" started-at="2017-03-05T19:29:21Z" finished-at="2017-03-05T19:29:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9550" started-at="2017-03-05T19:29:21Z" finished-at="2017-03-05T19:29:31Z">
+      <class name="com.test.Gmail.Testdriver.LoginPage">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.Gmail.Testdriver.LoginPage@10d68fcd]" name="beforeSuite" is-config="true" duration-ms="7219" started-at="2017-03-05T14:29:14Z" finished-at="2017-03-05T14:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="TC0001()[pri:0, instance:com.test.Gmail.Testdriver.LoginPage@10d68fcd]" name="TC0001" duration-ms="9529" started-at="2017-03-05T14:29:22Z" finished-at="2017-03-05T14:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0001 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.test.Gmail.Testdriver.LoginPage@10d68fcd]" name="afterSuite" is-config="true" duration-ms="1307" started-at="2017-03-05T14:29:31Z" finished-at="2017-03-05T14:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.Gmail.Testdriver.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
